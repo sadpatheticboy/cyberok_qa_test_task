@@ -36,3 +36,7 @@ pip install -r requirements.txt
 1. Для выполнения всех тестов используйте команду: ```pytest```;
 2. Чтобы получить отчет, выполните команду: ```pytest --alluredir={папка с результатами}```;
 3. Чтобы просмотреть отчет: ```allure serve allure-results```.
+
+## Allure отчет
+![image](tests/allure-results/cyberok_test_task_1.png)
+![image](tests/allure-results/cyberok_test_task_2.png)
